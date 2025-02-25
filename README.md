@@ -1,3 +1,3 @@
 # pages
 
-Codeberg pages site
+Codeberg and github pages site
