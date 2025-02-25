@@ -1,0 +1,44 @@
+body {
+    background: black;
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    font-family:
+        Roboto Flex,
+        Roboto,
+        system-ui,
+        sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 500px;
+    padding: 8px;
+}
+
+h1 {
+    font-weight: 800;
+    font-size: 20px;
+}
+
+h2 {
+    font-weight: 600;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: hotpink;
+    font-weight: 600;
+}
+
+@media (prefers-color-scheme: light) {
+    body {
+        background: white;
+        color: black;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    body {
+        width: unset;
+    }
+}
