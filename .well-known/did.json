@@ -13,7 +13,7 @@
 			"id": "did:web:aylac.top#atproto",
 			"type": "Multikey",
 			"controller": "did:web:aylac.top",
-			"publicKeyMultibase": "zQ3shV81ZwwGjb74sxR6smxHDmJAVbz3BNLDWGbBYzUJerLWb"
+			"publicKeyMultibase": "zQ3shnC1npUZH4yTv6HJPosmrRawwBQQKvro8CisY2h3rokXQ"
 		}
 	],
 	"service": [
